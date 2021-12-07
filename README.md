@@ -13,6 +13,7 @@ this  is how website look in laptop
 
 
 this  is how website look in tabulate
+
 ![Screenshot (30)](https://user-images.githubusercontent.com/82050918/145087125-a1ab00e1-0f2c-49e6-83d7-7a3235281bb1.png)
 ![Screenshot (31)](https://user-images.githubusercontent.com/82050918/145087139-c0be64b0-959b-4fc3-b0d1-e5110061339a.png)
 
